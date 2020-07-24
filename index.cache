@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+index.html
+1.Jailbreak.html
+2.BHS.html
+3.BlockUpdate.html
+4.FPT.html
+5.Mira+ren.html
+6.Dumper.html
+7.App2Usb.html
+c-code.js
+exploit.js
+helpers.js
+jailbreak.js
+loader.js
+malloc.js
+payload.js
+payloadapp2usb.js
+payloadbl.js
+payloaddumper.js
+payloadfpt.js
+payloadhsb.js
+payloadren.js
+rop.js
+syscalls.js
